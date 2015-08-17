@@ -30,13 +30,13 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 1. Fork the repository for the exercise/project (found under [github.com/DataStructure-ADF](https://github.com/DataStructure-ADF)).
 1. Clone the repository to your computer.
-1. Open the Task_[number].txt files to read the assignment instructions
+1. Open the README.md files to read the assignment instructions
 1. Modify the *.cpp and *.h code files to complete your solution
 1. Make sure all of your code is committed.
 1. Push/sync up to GitHub.
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
+1. On the due date I will close the pull request and send you a message confirmation for your assignment
 
 ### Requirements
 
@@ -50,7 +50,7 @@ These apply to real life, as well.
 
 ## Course Outline
 
-### Class 1
+### Task 1
 
 1. Introduction
 1. Setup
@@ -62,7 +62,7 @@ These apply to real life, as well.
 1. Talk through [requirements](#homework-projects/requirements)
 
 
-### Class 2
+### Task 2
  
  * to be added later
 
