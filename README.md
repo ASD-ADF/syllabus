@@ -58,9 +58,7 @@ These apply to real life, as well.
     * Sign up for GitHub
 1. GitHub workflow
     * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/adf-asd/students)
-1. Talk through [requirements](#homework-projects/requirements)
-
+    * Create pull request on [students repository](https://github.com/DataStructure-ADF/students)
 
 ### Task 2
  
